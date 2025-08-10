@@ -1,0 +1,23 @@
+{
+  "name": "node-playwright-seigura-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzkn/Node-Playwright-seigura-directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yzkn/Node-Playwright-seigura-directory/issues"
+  },
+  "homepage": "https://github.com/yzkn/Node-Playwright-seigura-directory#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1"
+  }
+}
