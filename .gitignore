@@ -1,9 +1,19 @@
+faces/*.gif
+faces/*.jpeg
+faces/*.jpg
+faces/*.png
+faces/*.svg
+faces/*.webp
+
 images/*.gif
 images/*.jpeg
 images/*.jpg
 images/*.png
 images/*.svg
 images/*.webp
+
+myenv/
+
 
 # Logs
 logs
